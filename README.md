@@ -5,44 +5,7 @@ My personal website My projects and links Speedrun profile &amp; projects
 <head>
   <title>Lion Abdellah Links</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      background: #111;
-      color: white;
-      padding: 50px;
-    }
-    h1 {
-      margin-bottom: 40px;
-      font-size: 36px;
-      color: #ffcc00;
-    }
-    a {
-      display: block;
-      margin: 15px auto;
-      padding: 15px 30px;
-      max-width: 400px;
-      background: #333;
-      color: white;
-      text-decoration: none;
-      border-radius: 12px;
-      font-size: 18px;
-      transition: background 0.3s, transform 0.3s;
-    }
-    a:hover {
-      background: #555;
-      transform: scale(1.05);
-    }
-    .note {
-      margin-top: 50px;
-      font-size: 14px;
-      color: #888;
-    }
-  </style>
-</head>
-<body>
-
-  <h1>🔥 Lion Abdellah Links</h1>
+    body 
 
   <a href="https://www.speedrun.com/users/Lion_Abdellah201" target="_blank">Speedrun Profile</a>
   <a href="https://www.twitch.tv/lion_abdellah201" target="_blank">Twitch Channel</a>
