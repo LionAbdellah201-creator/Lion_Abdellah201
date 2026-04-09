@@ -1,11 +1,6 @@
 # Lion_Abdellah201
 My personal website My projects and links Speedrun profile &amp; projects
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Lion Abdellah Links</title>
-  <style>
-    body 
+
 
   <a href="https://www.speedrun.com/users/Lion_Abdellah201" target="_blank">Speedrun Profile</a>
   <a href="https://www.twitch.tv/lion_abdellah201" target="_blank">Twitch Channel</a>
